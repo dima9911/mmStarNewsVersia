@@ -16,7 +16,7 @@
     ...
     <div id="block1"></div>
     ...
-    <script src="//starmetrics.ru/widget/mmStarNewsWidget.js"></script>
+    <script src="//starmetrics.ru/widget/mmStarNewsWidget_VERSIA.min.js"></script>
     <script>
       const Widget1 = new mmStarWidget({
           divID: 'block1'
@@ -38,7 +38,7 @@
     ...
     <div id="block3"></div>
     ...
-    <script src="//starmetrics.ru/widget/mmStarNewsWidget_VERSIA.js"></script>
+    <script src="//starmetrics.ru/widget/mmStarNewsWidget_VERSIA.min.js"></script>
     <script>
       const Widget1 = new mmStarWidget({
           divID: 'block1'
